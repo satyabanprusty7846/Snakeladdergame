@@ -13,6 +13,9 @@ Many students choose similar Snake & Ladder or simple C-programming games.
 - ✔ Better user experience with ENTER-to-roll system  
 
 ---
+## 💻 Output
+  
+![Snake & Ladder screenshot](https://raw.githubusercontent.com/satyabanprusty7846/Snakeladdergame/1a951c134bc57053df458bdddeb3a8dc42d28fd5/Screenshot%202025-11-26%20144858.png)
 
 ---
 
